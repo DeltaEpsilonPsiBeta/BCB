@@ -13,11 +13,7 @@ After development has been completed, the website will be deployed on http://dep
 ## Authors
 
 * **Neal Pathak** *Developer*
-* **Darshan Amin** *Co-Developer*
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Darshan Amin** *Developer*
 
 ## Acknowledgments
 
