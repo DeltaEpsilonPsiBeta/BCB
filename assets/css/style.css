@@ -3,8 +3,14 @@
 --------------------------------------------------------------*/
 html {
   overflow-y: scroll;
-  overflow-x: hidden;
   -ms-overflow-style: scrollbar;
+}
+
+.anchor{
+   display:block;
+   height:63px; /* this is the height of your header */
+   margin-top:-63px; /* this is again negative value of the height of your header */
+   visibility:hidden;
 }
 
 body {
@@ -12,6 +18,7 @@ body {
   font: 400 12px/1.8 "Open Sans", sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 img {
